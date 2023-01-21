@@ -46,7 +46,7 @@ let slideIndex = 1;
             }
             
 
-//formulario
+/* //formulario
 
 //nombre 
 if (document.formulario_prueba.nombre.value =='' || document.formulario_prueba.nombre.value.length <= 4){
@@ -102,7 +102,7 @@ if(document.getElementById('telefono').value==""){
 
 if(document.formulario_prueba.submit==""){
   alert("Tienes que rellenar todos  los campos");
-  }
+  } */
                       
 
 
